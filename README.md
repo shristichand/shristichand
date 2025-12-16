@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi, I'm Shristi Chand 👋
 
-<!--
-**shristichand/shristichand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate from Nepal with industry experience as a Full-Stack Developer
+(PERN stack), teaching experience in computer science, and applied exposure to real-world
+systems through internships and entrepreneurial work. I am preparing to apply for a
+Master’s degree in Computer Science (Fall 2026), with interests in applied systems and
+teaching-oriented roles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technical Skills
+- **Languages:** JavaScript, Typescript, SQL
+- **Frameworks & Libraries:** React, Node.js, Express
+- **Databases:** PostgreSQL
+- **Tools:** Git, REST APIs
+
+---
+
+### 💼 Experience Highlights
+- Full-Stack Developer with experience building and maintaining web applications
+- Managed an online e-commerce business applying coursework concepts in real-world systems
+- Internship experience working with production-level code
+
+---
+
+### 🌱 Currently Learning
+- Backend architecture and scalable API design
+- Database optimization and system design fundamentals
+
+---
+
+### 🤝 Open to Collaboration
+- Full-stack web applications
+- Educational or learning-focused tech projects
+- Applied software systems
+
+---
+
+### 📫 Contact
+- Email: hello@shristichand.com.np
+- LinkedIn: https://linkedin.com/in/shristichandthakuri
