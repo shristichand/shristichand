@@ -9,15 +9,15 @@ teaching-oriented roles.
 ---
 
 ### 🔧 Technical Skills
-- **Languages:** JavaScript, Typescript, SQL
-- **Frameworks & Libraries:** React, Node.js, Express
-- **Databases:** PostgreSQL
-- **Tools:** Git, REST APIs
+- **Languages:** JavaScript, Typescript, SQL, C, C++
+- **Frameworks & Libraries:** Next.js, Node.js, Express
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Git, REST APIs, Postman, Docker
 
 ---
 
 ### 💼 Experience Highlights
-- Full-Stack Developer with experience building and maintaining web applications
+- Full-Stack Developer with experience building and maintaining scalable web applications
 - Managed an online e-commerce business applying coursework concepts in real-world systems
 - Internship experience working with production-level code
 
@@ -39,3 +39,4 @@ teaching-oriented roles.
 ### 📫 Contact
 - Email: hello@shristichand.com.np
 - LinkedIn: https://linkedin.com/in/shristichandthakuri
+- Website: https://www.shristichand.com.np/
