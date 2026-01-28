@@ -2,9 +2,7 @@
 
 Computer Science graduate from Nepal with industry experience as a Full-Stack Developer
 (PERN stack), teaching experience in computer science, and applied exposure to real-world
-systems through internships and entrepreneurial work. I am preparing to apply for a
-Master’s degree in Computer Science (Fall 2026), with interests in applied systems and
-teaching-oriented roles.
+systems through internships and entrepreneurial work.
 
 ---
 
